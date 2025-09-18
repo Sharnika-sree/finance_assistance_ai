@@ -1,0 +1,8 @@
+streamlit
+ibm-watson
+transformers
+pandas
+numpy
+matplotlib
+python-dotenv
+requests
